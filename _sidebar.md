@@ -5,3 +5,4 @@
   * [我与屎](/docs/meandshit.md)
   * [愚蠢的世界](/docs/stupidworld.md)
   * [妈妈生的](/docs/momgavebirth.md)
+  * [蘑菇狂想曲](/docs/MushroomRhapsody.md)
